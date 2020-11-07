@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_intcol2" label="intcol2" language="en" table="dicglobal1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_intcol2</element>
+            <help/>
+            <hint/>
+            <label>intcol2</label>
+            <language>en</language>
+            <name>dicglobal1</name>
+            <plural>intcol2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-07 22:33:31</sys_created_on>
+            <sys_id>2b0ef552531020109d3addeeff7b126b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>intcol2</sys_name>
+            <sys_package display_value="dic_global" source="6e8d7d12531020109d3addeeff7b12c2">6e8d7d12531020109d3addeeff7b12c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="claimingapp2">22df7592531020109d3addeeff7b12ab</sys_scope>
+            <sys_update_name>sys_documentation_dicglobal1_u_intcol2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-07 22:43:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="claimingapp2">22df7592531020109d3addeeff7b12ab</claim_owner_scope>
+        <claim_timestamp>175a4e0c2750000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_dicglobal1_u_intcol2_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>claimingapp2</previous_claim_name>
+        <previous_claim_scope>22df7592531020109d3addeeff7b12ab</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-07 22:43:14</sys_created_on>
+        <sys_id>f9400e92531020109d3addeeff7b1242</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-07 22:43:14</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="claimingapp2">22df7592531020109d3addeeff7b12ab</claim_owner_scope>
+        <claim_timestamp>175a4e0c2720000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_dicglobal1_u_intcol2_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>dic_global</previous_claim_name>
+        <previous_claim_scope>6e8d7d12531020109d3addeeff7b12c2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-07 22:43:14</sys_created_on>
+        <sys_id>bd400e92531020109d3addeeff7b1242</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-07 22:43:14</sys_updated_on>
+    </sys_claim>
+</record_update>
