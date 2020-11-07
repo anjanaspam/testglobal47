@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Dicglobal1" max_length="40" name="dicglobal1" type="collection">
-        <element label="intcol2" max_length="40" name="u_intcol2" type="integer"/>
+        <element label="intcol2" max_length="40" name="u_intcol2" type="string"/>
     </element>
 </database>
